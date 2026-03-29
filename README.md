@@ -14,3 +14,11 @@ A plugin for MojoLauncher that provides an ANGLE OpenGL ES driver.
 > **1.0**
 >
 > See [Releases](https://github.com/Mahdin4sure/Mojo-ANGLE-Plugin/releases)
+
+## How to use it?
+* Install the APK File from [Actions](https://github.com/Mahdin4sure/Mojo-ANGLE-Plugin/actions) or [Releases](https://github.com/Mahdin4sure/Mojo-ANGLE-Plugin/releases).
+* Open MojoLauncher (Debug MojoLauncher should Work)
+* Go to Launcher settings.
+* Go to the option named **"Video and renderer"**
+* Scroll down and you will find **"Enable ANGLE"**
+* Enable it and enjoy.

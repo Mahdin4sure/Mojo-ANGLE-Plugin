@@ -1,5 +1,5 @@
 # Mojo-ANGLE-Plugin
-<img src="https://raw.githubusercontent.com/Mahdin4sure/Mojo-ANGLE-Plugin/refs/heads/master/app/src/main/ic_launcher-playstore.png" align="left" width="130" height="130" alt="Plugin App logo">
+<img src="https://raw.githubusercontent.com/Mahdin4sure/Mojo-ANGLE-Plugin/refs/heads/master/app/src/main/ic_launcher-playstore.png" align="left" width="150" height="150" alt="Plugin App logo">
 
 [![Android CI](https://github.com/Mahdin4sure/Mojo-ANGLE-Plugin/workflows/Android%20CI/badge.svg)](https://github.com/Mahdin4sure/Mojo-ANGLE-Plugin/actions) 
 
